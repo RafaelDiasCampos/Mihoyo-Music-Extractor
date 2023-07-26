@@ -1,0 +1,14 @@
+brotlipy==0.7.0
+certifi
+cffi
+charset-normalizer
+configparser==5.3.0
+cryptography
+idna
+pycparser
+pyOpenSSL
+PySocks
+regex
+requests
+urllib3
+win-inet-pton
