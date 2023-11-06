@@ -93,7 +93,10 @@ def extractMusic(folder):
         with open(processedFile, 'r') as f:
             processed = f.read().splitlines()
             lastProcessed = processed[-1]
-            lastProcessedIndex = versions.index(lastProcessed)
+            if lastProcessed in versions:
+                lastProcessedIndex = versions.index(lastProcessed)
+            else:
+                lastProcessedIndex = -1
             if len(versions) >= lastProcessedIndex + 1:
                 versions = versions[lastProcessedIndex + 1:]
 

@@ -23,3 +23,6 @@ https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.4.0_3.5
 https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.5.0_3.6.0_hdiff_70c4ojbL1mfTwY3Q.zip
 https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.6.0_3.7.0_hdiff_SIQuq5CfVPEXnBNy.zip
 https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.7.0_3.8.0_hdiff_wCu26d7XVB51UQbi.zip
+https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.8.0_4.0.0_hdiff_Brgs45clx6Teu1wO.zip
+https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.0.0_4.1.0_hdiff_NHu1vzpoal6X54fQ.zip
+https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.1.0_4.2.0_hdiff_pORAhLFjCN9dvuW7.zip
